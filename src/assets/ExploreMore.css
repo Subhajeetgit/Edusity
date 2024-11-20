@@ -1,0 +1,26 @@
+.explore-more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url("your-background-image.jpg") no-repeat center center/cover;
+    color: white;
+  }
+  
+  .explore-more-container {
+    text-align: center;
+    max-width: 800px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .explore-more-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .explore-more-container p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
